@@ -39,7 +39,7 @@ public class GG {
                     witajWAplikacjiTestowejTextArea.setText("Podaj login");
                     textField2.setText(" Podaj login");
                 } else {
-                    textField2.setText(" ----------- ");
+                    textField2.setText(" ------------- ");
                 }
 
 
